@@ -6,7 +6,7 @@ elsewhere on internet without limitations/sign-ups.
 OpenStreeMap is luckily open so hopefully having easy to get planet snapshot might help some projects.
 
 Bigger files for whole planet are hosted in Internet Archive at https://archive.org/details/osm-vector-mbtiles
-- planet file up to zoom level 12 (level 14 is still being processed)
+- planet file up to zoom level 14 for years 2019 and 2020
 - regions up to level 14 when finished
 
 This repository might carry more scripts and descriptions to help set up own map server using other excellent available tools out there.
